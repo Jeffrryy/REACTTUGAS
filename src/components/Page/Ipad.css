@@ -1,0 +1,171 @@
+.backgroundIpad{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+    margin-top: 120px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-position: center;
+    align-items: center;
+    background-size: 30%;  
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-image: url(./AssetsPage/ipad_hero__d0tgmaq6shm6_large.jpg);
+}
+.backgroundIpad2{
+    background-image: url(./AssetsPage/ipad_pro_hero__bh3eq6sqfjw2_large.jpg);
+    background-size: contain;
+    top: 0;
+    background-color: black;
+    left: 0;
+    
+    width: 100%;
+    height:100%;
+}
+.newtopTitle{
+    margin-top: 49px;
+    color: var(--white);
+    text-align: center;
+    z-index: 3;
+
+    /* color: var(--white); */
+}
+.baru1{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background: rgba(0,0,0,0);
+    border-color: #bf4800;
+    color: #f56300;
+}
+.textMacNew{
+    font-size: 48px;
+    line-height: 1.08349;
+    font-weight: 600;
+    letter-spacing: -.003em;
+}
+.textMacNew2{
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    margin-bottom: 20px;
+    letter-spacing: .007em;
+}
+.newContainerFlex1{
+    background-image: url(./AssetsPage/compare_ipad_pro__erf9x8mw04sy_large.png);
+    width: 167px;
+    height: 191px;
+    background-size: 167px 191px;
+  background-repeat: no-repeat;
+}
+.newContainerFlex2{
+    background-image: url(./AssetsPage/compare_ipad_air__bxjv33pk6nte_large.png);
+    width: 122px;
+    height: 168px;
+    background-size: 122px 168px;
+  background-repeat: no-repeat;
+}
+.newContainerFlex3{
+    background-image: url(./AssetsPage/compare_ipad_10_9__f7p2wja0gwuy_large.png);
+    width: 122px;
+    height: 168px;
+    background-size: 122px 168px;
+  background-repeat: no-repeat;
+}
+.newContainerFlex4{
+    background-image: url(./AssetsPage/compare_ipad_10_2__fwgwy7jydtea_large.png);
+    width: 119px;
+    height: 170px;
+    background-size: 119px 170px;
+  background-repeat: no-repeat;
+}
+.newContainerFlex5{
+    background-image: url(./AssetsPage/compare_ipad_mini__czcsk9ukpeie_large.png);
+  width: 120px;
+  height: 134px;
+  background-size: 120px 134px;
+  background-repeat: no-repeat;
+}
+.newTitleIpad1{
+    margin-top: 80px;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.newTitleIpad1{
+    margin-top: 80px;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.newTitleIpad2{
+    margin-top: 80px;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.newTitleIpad3{
+    margin-top: 80px;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.newTitleIpad4{
+    margin-top: 80px;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.newTitleIpad5{
+    margin-top: 80px;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.baru2{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background: rgba(0,0,0,0);
+    border-color: #bf4800;
+    color: #f56300;
+    transform: translateY(70px);
+}
+.iPadDesc{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+}
+.iPadGen{
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 600;
+    letter-spacing: -.008em;
+}
+.containerLinks{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: flex-end;
+
+     
+    margin-left: 130px;
+}
+/* .iPadLinks{
+    display: flex;
+    flex-direction: column;
+} */

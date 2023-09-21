@@ -1,0 +1,337 @@
+.navbarRoute1 ul li a{
+    color: black;
+}
+.navbarRoute1{
+    position: absolute;
+    background-color: white;
+}
+
+.backgroundroute1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: 70%;  
+    background-repeat: no-repeat;
+    z-index: -1;
+    /* transform: translateY(130px); */
+}
+.mainCompare{
+        margin-top: 50px;
+}
+.backgroundMac1{
+    background-image: url(./AssetsPage/macbook_air__f6z1e32o3866_large.jpg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: 70%;  
+    background-repeat: no-repeat;
+    z-index: -1;
+    transform: translateY(130px);
+}
+.backgroundMac2{
+        background-image: url(./AssetsPage/promo_mac_studio_announce__do7xnc8z5mgm_medium_2x.jpg);
+}
+.backgroundMac3{
+    background-image: url(./AssetsPage/promo_mac_pro_announce__dd118zq1ap6q_medium_2x.jpg);
+}
+
+.textmac{
+    margin-top: 80px;
+    font-size: 48px;
+    line-height: 1.08349;
+    font-weight: 600;
+    letter-spacing: -.003em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+
+}
+.textsmallmac{
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 600;
+    margin-bottom: 20px;
+    letter-spacing: .007em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.textsmallmac .button{
+    transform: translateY(60px);
+}
+.button{
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 980px;
+    max-width: 200px;
+    background: #0071e3;
+    color: #fff;
+}
+.button a{
+    color: white;
+}
+.main .mainCompare{
+    display: inline-block;
+     
+    
+}
+.baru{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background: rgba(0,0,0,0);
+    border-color: #bf4800;
+    color: #f56300;
+    transform: translateY(88px);
+}
+.textStock{
+    color: rgb(139, 139, 139);
+    font-weight: 100;
+    margin-top: 9px;
+    font-size: 18px;
+}
+/* .macflex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.macflex ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    
+}
+.macflex ul li {
+    margin-right: 30px;
+}
+.macflex ul li p{
+        transform: translateX(15px);
+}
+.macflex ul li .title{
+    transform: translateY(33px);
+}
+.textflex ul{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+.Mac3{
+    width: 230px;
+    /* margin-top: 25px; */
+}
+.textmac14{
+    margin-top: 15px;
+}
+.texttitle{
+    font-size: 28px;
+    line-height: 1.47059;
+    font-weight: 600;
+    letter-spacing: -.022em;
+     
+        
+        
+}
+.textmac16{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+}
+.texttitle .Chip{
+    font-weight: 410;
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.texttitle .Chip2{
+        transform: translateY(50px);
+        font-weight: 410;
+        font-size: 18px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+}
+.texttitle .desc{
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    transform: translateY(75px);
+}
+.texttitle .desc1{
+    font-size: 18px;
+     line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    transform: translateY(70px);
+    display: flex;
+    flex-direction: column;
+}
+.texttitle .desc2{
+    font-size: 18px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    transform: translateY(65px);
+    display: flex;
+    flex-direction: column;
+}
+ .titleMac {
+    
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    position: absolute;
+    transform: translateY(-130px);
+    
+}
+.texttitle .desc3{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-size: 18px;
+    transform: translateY(65px);
+}
+.MacImg{
+    transform: translateY(35px);
+    display: flex;
+    flex-direction: row;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* position: absolute; */
+    transform: translateY(70px);
+}
+
+
+.compareflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 799px;
+    padding: 200px;
+}
+.titleMacBook{
+    text-align: center;
+
+    align-items: center;
+    padding-top: 130px;
+    font-size: 26px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+}
+.titleMacChip{
+    font-weight: 500;
+    /* display: block; */
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+}
+.titleMacDesc{
+    font-size: 15px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    /* display: block; */
+    /* margin-block-start: 1em;
+    margin-block-end: 1em;
+    
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+}
+
+.topTitleCompare1{
+    padding-right: 20px;
+    padding-top: 60px;
+    border-bottom: 1px solid var(--greyLight);
+}
+.topTitleCompare2{
+    padding-right: 20px;
+    padding-top: 10px;
+    border-bottom: 1px solid var(--greyLight);
+}
+.topTitleCompare3{
+    padding-right: 20px;
+    padding-top: 83px;
+    border-bottom: 1px solid var(--greyLight);
+}
+.topTitleCompare4{
+    flex-direction: column;
+    padding-right: 30px;
+    padding-top: 40px;
+    border-bottom: 1px solid var(--greyLight);
+}
+.topTitleCompare p{
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
+.containerflex1{    
+    width: 212px;
+    height: 114px;
+    background-size: 212px 114px;
+    background-repeat: no-repeat;
+    z-index: 2;
+    background-image: url(./AssetsPage/compare_mbp_13__b9nj45t4tcya_small_2x.png);
+}   
+.containerflex2{    
+    width: 212px;
+    height: 114px;
+    background-size: 212px 114px;
+    background-repeat: no-repeat;
+    z-index: 2;
+    background-image: url(./AssetsPage/compare_mba_13_15__beo01ewpngky_small_2x.png);
+}   
+.containerflex3{    
+    width: 212px;
+    height: 114px;
+    background-size: 212px 114px;
+    background-repeat: no-repeat;
+    z-index: 2;
+    background-image: url(./AssetsPage/compare_mba_m1__9d4o64w6wv6m_small_2x.png);
+}   
+.containerflex4{    
+    width: 212px;
+    height: 114px;
+    background-size: 212px 114px;
+    background-repeat: no-repeat;
+    z-index: 2;
+    background-image: url(./AssetsPage/compare_mbp_14_16__gmrk71zzfoq6_large.png);
+}   
+

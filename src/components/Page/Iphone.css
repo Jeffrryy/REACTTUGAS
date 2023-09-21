@@ -1,0 +1,72 @@
+.backgroundIp{
+    position: absolute;
+    top: 0;
+    left: 700px;
+    /* width: 80%; */
+    /* height:100%; */
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-position: center;
+    /* background-size: 70%;   */
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+.blue{
+    font-size: 48px;
+    line-height: 1.0834933333;
+    font-weight: 600;
+    letter-spacing: -0.003em;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(90deg,#1e3791 0%,#2948b1 40%,#3153c6 55%,#385fda 60%);
+    color: transparent;
+}
+.topTitleIphoneSE{
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 300px;
+    z-index: 3;
+}
+.containerImage1{
+    background-image: url(./AssetsPage/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg);
+    background-repeat: no-repeat;
+    width: 190px;
+    height: 257px;
+    background-size: 190px 257px;
+    
+}
+.containerImage2{
+    background-image: url(./AssetsPage/compare_iphone_14__ct4sjk962pea_large.jpg);
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 257px;
+    background-size: 180px 257px;
+}
+.containerImage3{
+    background-image: url(./AssetsPage/compare_iphone_13__fqzwhmfmroey_large.jpg);
+    background-repeat: no-repeat;
+    width: 161px;
+    height: 257px;
+    background-size: 161px 257px;
+    
+}
+.containerImage4{
+    background-image: url(./AssetsPage/compare_iphone_se__d5blqx1pgymq_large.jpg);
+    background-repeat: no-repeat;
+    width: 151px;
+    height: 257px;
+    background-size: 151px 257px;
+    
+}
+.titleIphone{
+    margin-bottom: 300px;
+}
+.titleIphoneCiputat{
+    /* margin-bottom: 100px; */
+    /* transform: translateY(100px); */
+}
+.titleIphoneCiputat p{
+    /* transform: translateY(50px); */
+}

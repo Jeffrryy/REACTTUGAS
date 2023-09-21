@@ -1,0 +1,299 @@
+
+.dark-blue {
+    color: #06c !important;
+  }
+.grey{
+    color: rgb(139, 139, 139);
+    font-weight: 100;
+    margin-top: 9px;
+    font-size: 15px;
+}
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    /* background-image: url(../Assets/iphone14pro.jpg); */
+}
+.background1{
+    height: 140%;
+    background-color: black;
+    background-image: url(../Assets/iphone14pro.jpg);
+}
+/* .background p  {
+    background-color: black;
+    position: absolute;
+    z-index: 1;
+    width: 200%;
+    height: 200%;
+} */
+.background2{
+    /* background-size: cover; */
+    border-color: white;
+    top: 100px;
+    z-index: -1;
+    background-color: white;
+    background-image: url(../Assets/iphone-14_overview__50yr9pd9hfm2_og.png);
+}
+.background3{
+    border-color: white;
+    margin-top: -150px;
+    z-index: -1;
+    background-size: contain;
+    background-color: white;
+    background-image: url(../Assets/hero_macbook_air_15_midnight__ct0pgwizvree_medium.jpg);
+}
+.background4{
+    z-index: 2;
+    background-size: Cover;
+    background-color: white;
+    
+    background-image: url(../Assets/promo_apple_watch_series_8_spring__d9hfvufh7hyu_medium_2x.jpg);
+}
+.background5{
+    z-index: 2;
+    background-size: Cover;
+    background-color: white;
+    background-image: url(../Assets/promo_ipadpro__ch217v9v7no2_medium_2x.jpg);
+}
+.background6{
+    z-index: 2;
+    background-size: Cover;
+    background-color: white;
+    background-image: url(../Assets/promo_mac_studio_announce__do7xnc8z5mgm_medium_2x.jpg);
+}
+.background7{
+    z-index: 2;
+    background-size: Cover;
+    background-color: white;
+    background-image: url(../Assets/promo_mac_pro_announce__dd118zq1ap6q_medium_2x.jpg);
+}
+.background8{
+    z-index: 2;
+    background-size: cover;
+    background-color: white;
+    background-image: url(../Assets/promo-apple-fitness-plus-iphone__bzeal882mv7m_small_2x.jpg);
+}
+.background9{
+    z-index: 2;
+    /* margin-top: -40px; */
+    background-size: cover;
+    background-color: white;
+    background-image: url(../Assets/promo_airpods_pro_avail__gaxggskofx6y_small.jpg);
+}
+
+.main4{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    overflow: hidden;
+}
+.main4 h1{
+    font-size: 38px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  
+}
+.TextApple img{
+    width: 30px;
+  }
+.TextIpad{
+    font-size: 35px;
+    font-weight: 700;
+    height: 30px;
+    letter-spacing: 0px;
+}
+.TextStudioMac{
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.TextMacPro{
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.TextHit{
+    font-size: 20px;
+    font-weight: 450;
+    letter-spacing: 0px;
+}
+.TextAirPods{
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-top: 20px;
+}
+.series{
+    letter-spacing: 2px;
+}
+
+.Chip {
+    font-size: 20px;
+    font-weight: 450;
+    height: 30px;
+    letter-spacing: 0px;
+    
+}
+.TextApple {
+    font-size: 35px;
+    font-weight: 1000;
+    letter-spacing: 0px;
+    /* font-weight: bold; */
+}
+
+  
+  
+.fitness img{
+    width: 50%;
+}
+.main4 .row{
+    width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 10px;
+}
+.main4Item{
+    height: 600px;
+  -webkit-box-flex: 0.497;
+      -ms-flex: 0.497;
+          flex: 0.497;
+  position: relative;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: #fbfbfb;
+  
+}
+.black {
+    color: var(--text) !important;
+}
+.main{
+    height: 820px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.topTitle{
+    margin-top: 49px;
+  color: var(--white);
+  text-align: center;
+  z-index: 3;
+}
+.topTitleiPhone14{
+    margin-top: 150px;
+}
+.topTitle h1{
+    font-size: 52px;
+    font-weight: 500;
+    letter-spacing: -1px;
+}
+.topTitle h2{
+    /* margin-top: 3px; */
+    /* font-size: 26px; */
+    font-weight:350;
+}
+.topTitle h3{
+    margin-top: 3px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.topTitle--links  {
+ margin-top: 12px;
+}
+.topTitle--links a {
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--a);
+}
+.topTitle--links .Link{
+    font-size: 23px;
+    font-weight: 400;
+    color: var(--a);
+}
+.topTitle--links .Link img{
+  width: 15px;
+}
+.topTitle--links a:nth-child(2) {
+    margin-left: 30px;
+  }
+.topTitle--links a img {
+    width: 12px;
+  }
+
+.bottomTitle{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 10px;
+    text-align: center;
+    z-index: 3;
+}
+.bottomTitle h2{
+    font-size: 21px;
+    font-weight: 100;
+    line-height: 30px;
+    color: var(--greyLight);
+    
+}
+
+.bottomTitle h2:nth-child(1) {
+    color: var(--white);
+    font-weight: 600;
+  }
+  .bottomTitle h2:nth-child(4) {
+   margin-top: 1px;
+  }
+.each-slide-effect  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    z-index: 2;
+    height: 400px;
+  }
+  .indicator {
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    border: 1px #666 solid;
+    border-radius: 20px;
+    
+    margin: 0;
+  }
+  
+  .indicator.active {
+    color: #fff;
+    background: #666;
+  }
+  .titleH3{
+    font-size: 30px;
+  }
+  .titleH1{
+
+    font-size: 64px;
+    font-weight: 500;
+    letter-spacing: -1px;
+  }
