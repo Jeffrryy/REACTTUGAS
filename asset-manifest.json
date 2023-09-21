@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/REACTTUGAS/static/css/main.861ae3f8.css",
-    "main.js": "/REACTTUGAS/static/js/main.1415a6dd.js",
+    "main.js": "/REACTTUGAS/static/js/main.b336cc5f.js",
     "static/media/iphone-14_overview__50yr9pd9hfm2_og.png": "/REACTTUGAS/static/media/iphone-14_overview__50yr9pd9hfm2_og.0c8b0d0d3ffe2b34f76a.png",
     "static/media/Screenshot4.png": "/REACTTUGAS/static/media/Screenshot4.03d8c9d1fe9f53b7149d.png",
     "static/media/Screenshot5.png": "/REACTTUGAS/static/media/Screenshot5.7559d538bc414fb622e3.png",
@@ -40,10 +40,10 @@
     "index.html": "/REACTTUGAS/index.html",
     "static/media/magnifying-glass-solid.svg": "/REACTTUGAS/static/media/magnifying-glass-solid.6d5ef3dedce5936774892ecc516286be.svg",
     "main.861ae3f8.css.map": "/REACTTUGAS/static/css/main.861ae3f8.css.map",
-    "main.1415a6dd.js.map": "/REACTTUGAS/static/js/main.1415a6dd.js.map"
+    "main.b336cc5f.js.map": "/REACTTUGAS/static/js/main.b336cc5f.js.map"
   },
   "entrypoints": [
     "static/css/main.861ae3f8.css",
-    "static/js/main.1415a6dd.js"
+    "static/js/main.b336cc5f.js"
   ]
 }
